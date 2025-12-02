@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "last_updated": "2024-12-02",
+  "podcasts": [
+    {
+      "id": 1,
+      "name": "Kiddush Club - News for Jews",
+      "rss_url": "https://kiddushclubpodcast.podbean.com/feed.xml",
+      "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/10855419/kiddush_club_logo_600x600.jpg",
+      "description": "The most entertaining Jewish podcast covering news, Torah, and interviews",
+      "category": "News & Comedy",
+      "network": "Independent"
+    },
+    {
+      "id": 2,
+      "name": "Meaningful People",
+      "rss_url": "https://meaningfulpeoplepodcast.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Interviews with Jewish personalities and their inspiring stories",
+      "category": "Interviews",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 3,
+      "name": "Stories of Hope",
+      "rss_url": "https://storiesofhope.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Meaningful Minute's inspiring stories podcast",
+      "category": "Inspiration",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 4,
+      "name": "Pause by Meaningful Minute",
+      "rss_url": "https://pause.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Meaningful Minute's Pause podcast",
+      "category": "Torah & Inspiration",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 5,
+      "name": "The Daily Thread",
+      "rss_url": "https://thedailythread.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Meaningful Minute's daily inspiration",
+      "category": "Daily Torah",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 6,
+      "name": "Two Cents Podcast",
+      "rss_url": "https://twocents.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Meaningful Minute's Two Cents podcast",
+      "category": "Discussion",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 7,
+      "name": "Tehilim by Meaningful Minute",
+      "rss_url": "https://tehilim.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Follow along and recite Tehilim wherever you are",
+      "category": "Prayer",
+      "network": "Meaningful Minute"
+    },
+    {
+      "id": 8,
+      "name": "Inspiration for the Nation",
+      "rss_url": "https://inspirationforthenation.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Yaakov Langer interviews impactful Jewish individuals",
+      "category": "Interviews & Inspiration",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 9,
+      "name": "Kosher Money",
+      "rss_url": "https://koshermoneypodcast.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Practical money advice and Torah wisdom",
+      "category": "Finance",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 10,
+      "name": "Podcast Therapy with Dr. Z",
+      "rss_url": "https://podcasttherapy.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Orthodox community call-in therapy show",
+      "category": "Mental Health",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 11,
+      "name": "That's An Issue",
+      "rss_url": "https://thatsanissue.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Mental health conversations grounded in Jewish values",
+      "category": "Mental Health",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 12,
+      "name": "The Music Room",
+      "rss_url": "https://themusicroom.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Every song has a story with Dani Kunstler",
+      "category": "Music",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 13,
+      "name": "Jewish Grandma Podcast",
+      "rss_url": "https://jewishgrandma.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Wisdom and life lessons from Grandma Dina",
+      "category": "Life & Wisdom",
+      "network": "Living Lchaim"
+    },
+    {
+      "id": 14,
+      "name": "Zevy and Zaidy",
+      "rss_url": "https://zevyandzaidy.libsyn.com/rss",
+      "artwork_url": "",
+      "description": "Time-traveling adventures through Jewish history for kids",
+      "category": "Kids & Family",
+      "network": "Living Lchaim"
+    }
+  ]
+}
