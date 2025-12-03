@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "The Daily Thread",
-      "rss_url": "https://thedailythread.libsyn.com/rss",
+      "rss_url": "https://feeds.transistor.fm/the-daily-thread",
       "artwork_url": "",
       "description": "Meaningful Minute's daily inspiration",
       "category": "Daily Torah",
@@ -54,15 +54,6 @@
       "artwork_url": "",
       "description": "Meaningful Minute's Two Cents podcast",
       "category": "Discussion",
-      "network": "Meaningful Minute"
-    },
-    {
-      "id": 7,
-      "name": "Tehilim by Meaningful Minute",
-      "rss_url": "https://tehilim.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Follow along and recite Tehilim wherever you are",
-      "category": "Prayer",
       "network": "Meaningful Minute"
     },
     {
