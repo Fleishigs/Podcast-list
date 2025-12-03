@@ -68,7 +68,7 @@
     {
       "id": 9,
       "name": "Kosher Money",
-      "rss_url": "https://koshermoneypodcast.libsyn.com/rss",
+      "rss_url": "https://anchor.fm/s/1002d5af4/podcast/rss",
       "artwork_url": "",
       "description": "Practical money advice and Torah wisdom",
       "category": "Finance",
@@ -77,34 +77,16 @@
     {
       "id": 10,
       "name": "Podcast Therapy with Dr. Z",
-      "rss_url": "https://podcasttherapy.libsyn.com/rss",
+      "rss_url": "https://anchor.fm/s/1002d6ee0/podcast/rss",
       "artwork_url": "",
       "description": "Orthodox community call-in therapy show",
       "category": "Mental Health",
       "network": "Living Lchaim"
     },
     {
-      "id": 11,
-      "name": "That's An Issue",
-      "rss_url": "https://thatsanissue.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Mental health conversations grounded in Jewish values",
-      "category": "Mental Health",
-      "network": "Living Lchaim"
-    },
-    {
-      "id": 12,
-      "name": "The Music Room",
-      "rss_url": "https://themusicroom.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Every song has a story with Dani Kunstler",
-      "category": "Music",
-      "network": "Living Lchaim"
-    },
-    {
       "id": 13,
       "name": "Jewish Grandma Podcast",
-      "rss_url": "https://jewishgrandma.libsyn.com/rss",
+      "rss_url": "https://anchor.fm/s/fe6d3d60/podcast/rss",
       "artwork_url": "",
       "description": "Wisdom and life lessons from Grandma Dina",
       "category": "Life & Wisdom",
