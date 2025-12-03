@@ -94,12 +94,12 @@
     },
     {
       "id": 14,
-      "name": "Zevy and Zaidy",
-      "rss_url": "https://zevyandzaidy.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Time-traveling adventures through Jewish history for kids",
-      "category": "Kids & Family",
-      "network": "Living Lchaim"
-    }
+      "name": "Latest Talks Podcast",
+      "rss_url": "https://anchor.fm/s/55c3378c/podcast/rss",
+      "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/36776596/36776596-1705089350539-3fea3f2da8cc2.jpg",
+      "description": "Latest Talks Podcast - Inspiring conversations and insights",
+      "category": "Talk",
+      "network": "Latest Talks"
+    },
   ]
 }
