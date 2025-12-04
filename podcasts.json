@@ -21,15 +21,6 @@
       "network": "Meaningful Minute"
     },
     {
-      "id": 3,
-      "name": "Pause by Meaningful Minute",
-      "rss_url": "https://pause.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Meaningful Minute's Pause podcast",
-      "category": "Torah & Inspiration",
-      "network": "Meaningful Minute"
-    },
-    {
       "id": 4,
       "name": "The Daily Thread",
       "rss_url": "https://feeds.transistor.fm/the-daily-thread",
