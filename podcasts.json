@@ -21,15 +21,6 @@
       "network": "Meaningful Minute"
     },
     {
-      "id": 3,
-      "name": "Stories of Hope",
-      "rss_url": "https://storiesofhope.libsyn.com/rss",
-      "artwork_url": "",
-      "description": "Meaningful Minute's inspiring stories podcast",
-      "category": "Inspiration",
-      "network": "Meaningful Minute"
-    },
-    {
       "id": 4,
       "name": "Pause by Meaningful Minute",
       "rss_url": "https://pause.libsyn.com/rss",
